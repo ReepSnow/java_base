@@ -1,0 +1,12 @@
+2016/04/22 17:43:50:958  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:47:02:682  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:47:28:891  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:48:01:354  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:52:57:271  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:53:58:033  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:58:58:599  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 17:59:17:491  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 18:02:04:052  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 18:02:20:947  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 18:02:58:262  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
+2016/04/22 18:06:26:367  INFO cn.snow.log4j.Log4jTest:10 - log4日志测试
