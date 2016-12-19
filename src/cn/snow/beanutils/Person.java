@@ -3,10 +3,10 @@ package cn.snow.beanutils;
 import java.util.Date;
 
 public class Person { //javabean
-	private String name;//�ֶ�
-	private String password;//�ֶ�
-	private int age;//�ֶ�
-	private Date birthday;//����
+	private String name;//姓名
+	private String password;//密码
+	private int age;//年龄
+	private Date birthday;//生日
 	
 	public Date getBirthday() {
 		return birthday;
